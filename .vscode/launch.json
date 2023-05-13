@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateTimeExampleArithmetic",
+            "request": "launch",
+            "mainClass": "com.example.datetime.DateTimeExampleArithmetic",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeExampleOf",
+            "request": "launch",
+            "mainClass": "com.example.datetime.DateTimeExampleOf",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeExampleNow",
+            "request": "launch",
+            "mainClass": "com.example.datetime.DateTimeExampleNow",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "StreamExampleMap",
             "request": "launch",
             "mainClass": "com.example.StreamExampleMap",
