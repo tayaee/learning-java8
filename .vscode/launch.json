@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReferenceToObjectMethod",
+            "request": "launch",
+            "mainClass": "com.example.methodreference.ReferenceToObjectMethod",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceToStaticMethod",
+            "request": "launch",
+            "mainClass": "com.example.methodreference.ReferenceToStaticMethod",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "DefaultMethodExample",
             "request": "launch",
             "mainClass": "com.example.default_.DefaultMethodExample",
