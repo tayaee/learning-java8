@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DefaultMethodExample",
+            "request": "launch",
+            "mainClass": "com.example.default_.DefaultMethodExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "DefaultMethodExample",
+            "request": "launch",
+            "mainClass": "DefaultMethodExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "DateTimeExampleArithmetic",
             "request": "launch",
             "mainClass": "com.example.datetime.DateTimeExampleArithmetic",
