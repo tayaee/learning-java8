@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StreamExampleMap",
+            "request": "launch",
+            "mainClass": "com.example.StreamExampleMap",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "StreamExampleFilter",
+            "request": "launch",
+            "mainClass": "com.example.StreamExampleFilter",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExampleFuncInterface",
+            "request": "launch",
+            "mainClass": "com.example.LambdaExampleFuncInterface",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExample",
+            "request": "launch",
+            "mainClass": "com.example.LambdaExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.example.HelloWorld",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
