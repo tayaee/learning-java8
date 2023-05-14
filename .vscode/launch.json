@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FunctionalInterfaceExampleConsumer",
+            "request": "launch",
+            "mainClass": "com.example.functionalinterface.FunctionalInterfaceExampleConsumer",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterfaceExampleSupplier",
+            "request": "launch",
+            "mainClass": "com.example.functionalinterface.FunctionalInterfaceExampleSupplier",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterfaceExample",
+            "request": "launch",
+            "mainClass": "com.example.functionalinterface.FunctionalInterfaceExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterfaceExamplePredicate",
+            "request": "launch",
+            "mainClass": "com.example.functionalinterface.FunctionalInterfaceExamplePredicate",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "ReferenceToObjectMethod",
             "request": "launch",
             "mainClass": "com.example.methodreference.ReferenceToObjectMethod",
