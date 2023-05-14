@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ParallelStreamExample",
+            "request": "launch",
+            "mainClass": "com.example.stream.ParallelStreamExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "FunctionalInterfaceExampleConsumer",
             "request": "launch",
             "mainClass": "com.example.functionalinterface.FunctionalInterfaceExampleConsumer",
