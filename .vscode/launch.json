@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CompletableFutureExample",
+            "request": "launch",
+            "mainClass": "com.example.completablefuture.CompletableFutureExample",
+            "projectName": "java8demo"
+        },
+        {
+            "type": "java",
             "name": "ParallelStreamExample",
             "request": "launch",
             "mainClass": "com.example.stream.ParallelStreamExample",
